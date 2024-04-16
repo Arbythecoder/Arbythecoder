@@ -13,7 +13,7 @@ Article 2:Speed Up Your Software Releases: A Beginner's Guide to Continuous Depl
 Article 3:Building Your DevOps Playground: A Beginner's Guide to Setting Up Your Development Environment.
 Article 4:Linux Shell Scripting for DevOps: A Beginner's Guide
 Get in Touch
-📫 Feel free to reach out to me through [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/afolabi-abigeal-4b1604137/)) or [Twitter](https://twitter.com/arbysbodyorg__).
+📫 Feel free to reach out to me through [LinkedIn](](https://www.linkedin.com/in/afolabi-abigeal-4b1604137/)) or [Twitter](https://twitter.com/arbysbodyorg__).
 📝 Read my articles on [Dev](https://dev.to/arbythecoder) for insights into my tech journey and thoughts on industry trends.
 Let's Connect
 Connect with me and let's grow together in the tech community! 😊
