@@ -1,19 +1,39 @@
-### Hi there, I'm [Abigeal Afolabi]! 👋
-Welcome to my GitHub profile! I'm a junior developer exploring the world of backend development with Node.js through the Zuri Internship program. I'm also currently engaged in a mentorship program for DevOps engineering and passionate about sharing my knowledge through writing. Here's a bit more about me:
+# Hi there, I'm Abigeal! 👋
 
-About Me
-🌱 I'm currently learning Node.js for backend development as part of the Zuri Internship program.
-👨‍💻 As a junior developer, I'm excited to dive deeper into software engineering and explore various technologies.
-💡 I enjoy writing technical articles to share my learnings and insights with others in the community.
-🚀 My goal is to contribute meaningfully to the tech industry and continue growing as a developer and writer.
+![Header Image]([https://your-image-url.com](https://drive.google.com/drive/u/0/home)) 
 
-My Articles
-Article 1: Git, Glory, and Getting Sh*t Done: My Week-by-Week DevOps Grind with NexascaleBrief description of the article and the topic covered.
-Article 2:Speed Up Your Software Releases: A Beginner's Guide to Continuous Deployment
-Article 3:Building Your DevOps Playground: A Beginner's Guide to Setting Up Your Development Environment.
-Article 4:Linux Shell Scripting for DevOps: A Beginner's Guide
-Get in Touch
-📫 Feel free to reach out to me through [LinkedIn](](https://www.linkedin.com/in/afolabi-abigeal-4b1604137/)) or [Twitter](https://twitter.com/arbysbodyorg__).
-📝 Read my articles on [Dev](https://dev.to/arbythecoder) for insights into my tech journey and thoughts on industry trends.
-Let's Connect
-Connect with me and let's grow together in the tech community! 😊
+## About Me
+✨ I'm currently learning about **Node.js** and **DevOps** technologies.  
+📚 I regularly write articles on [Dev.to](https://dev.to/arbythecoder).  
+✉️ Reach me via email: [houseofarby@gmail.com](mailto:houseofarby@gmail.com)
+
+---
+
+## Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/arbysbodyorg__)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolabi-abigeal-4b1604137/)
+
+---
+
+## Technologies and Tools
+
+| **Category**       | **Tools**                             |
+|--------------------|---------------------------------------|
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+| **Languages**      | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Frameworks**     | ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) |
+| **Servers**        | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+| **Databases**      | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **DevOps Tools**   | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) |
+
+---
+
+## Featured Articles
+- **[https://dev.to/arbythecoder/building-your-devops-playground-a-beginners-guide-to-setting-up-your-development-environment-397h](#)** - Building Your DevOps Playground: A Beginner's Guide to Setting Up Your Development Environment.
+- **[https://dev.to/arbythecoder/linux-shell-scripting-for-devops-a-beginners-guide-1fgf](#)** - Linux Shell Scripting for DevOps: A Beginner's Guide.
+- **[https://dev.to/arbythecoder/from-beginner-to-backend-warrior-my-zuri-internship-takes-flight-and-a-deep-dive-into-month-one-5g04](#)** - From Beginner to Backend Warrior: My Zuri Internship Takes Flight.
+
+---
+
+Feel free to explore my projects and connect with me!
